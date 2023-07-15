@@ -14,6 +14,7 @@ This work is licensed under CC-BY-SA 4.0: https://creativecommons.org/licenses/b
 
 ## Citation
 Please cite the following paper if you use EmoITA:
+
 Giovanni Gafà, Francesco Cutugno, and Marco Venuti. 2023. EmotivITA at EVALITA2023: Overview of the Dimensional and Multidimensional Emotion Analysis Task. In Mirko Lai, Stefano Menini, Marco Polignano, Valentina Russo, Rachele Sprugnoli, and Giulia Venturi, editors. _Proceedings of the Eighth Evaluation Campaign of Natural Language Processing and Speech Tools for Italian. Final Workshop (EVALITA 2023)_. Parma, Italy. CEUR.org.  
 
 ## Contact
