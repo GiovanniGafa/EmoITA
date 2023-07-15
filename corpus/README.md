@@ -5,13 +5,8 @@ In order to produce it, 16 students from the Master’s Degree in Foreign Langua
 Overall, we obtained 7 different annotations for each sentence. The 'EmoITA.csv' file contains the average annotations for each sentence and emotion dimension.
 
 The csv file as the form: id, text, V, A, D, where:
-
-'id' is the original id found in the EmoBank corpus (https://github.com/JULIELab/EmoBank/blob/master/corpus/emobank.csv)
-
-'text' is the Italian translation of the corresponding English sentence in the EmoBank corpus
-
-'V' is the average Valence score annotated for the sentence
-
-'A' is the average Arousal score annotated for the sentence
-
-'D' is the average Dominance score annotated for the sentence
+- 'id' is the original id found in the EmoBank corpus (https://github.com/JULIELab/EmoBank/blob/master/corpus/emobank.csv)
+- 'text' is the Italian translation of the corresponding English sentence in the EmoBank corpus
+- 'V' is the average Valence score annotated for the sentence
+- 'A' is the average Arousal score annotated for the sentence
+- 'D' is the average Dominance score annotated for the sentence
